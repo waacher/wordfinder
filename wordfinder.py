@@ -1,8 +1,4 @@
-# Project 4
-#
-# Name: Alan Shan 
-# Instructor: Brian Jones
-# Section: 21
+# MAIN
 
 import finder_funcs
 
