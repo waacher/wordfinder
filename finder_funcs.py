@@ -1,9 +1,3 @@
-# Project 4
-#
-# Name: Alan Shan
-# Instructor: Brian Jones
-# Section: 21
-
 # Functions for wordfinder
 
 # Turn puzzle (string) into a list of rows || **was supposed to be list of strings**
